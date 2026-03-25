@@ -2,7 +2,8 @@
 
 Paste a company name. Get a synthesized research brief in 90 seconds.
 
-**[Try it live](https://projects.akshitkalra.com/startupresearch)**
+
+**[Try it live](https://akshitkalra.com/startupresearch)**
 
 ![Startup Research](screenshot.png)
 
