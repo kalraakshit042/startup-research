@@ -8,6 +8,27 @@ Paste a company name. Get a synthesized research brief in 90 seconds.
 
 ---
 
+## Example
+
+**Input:** `Harvey AI`
+
+**Output:** A structured 11-section brief covering the company story, founding team, product, funding history, competitive landscape, culture, social presence, and recent signals — with sources.
+
+<!-- TODO: Add example-report.png screenshot here -->
+<!-- ![Example report](example-report.png) -->
+
+<!-- TODO: Add a real TL;DR excerpt from the Harvey AI report here -->
+
+Instead of reading 15 tabs and stitching them together manually, you get one coherent research brief with sources in ~90 seconds.
+
+---
+
+## Who This Is For
+
+> Job applicants evaluating offers, founders scoping competitors, angel investors doing lightweight diligence, journalists on deadline, and potential customers wondering if a startup is legit — anyone who needs a fast, coherent view of a startup without paying for institutional research tools.
+
+---
+
 ## The Problem
 
 Every AI research tool on the market is built for VCs. Crunchbase, PitchBook, and Harmonic charge $10K+/year and assume you're an institutional investor running deal flow.
@@ -28,7 +49,7 @@ A two-phase pipeline: **search**, then **synthesize**.
 4. The report is **cached for 30 days** with a shareable URL (`/r/company-slug`)
 5. **1 free search per hour** to keep costs sustainable
 
-The 11 sections: TL;DR, The Story, The Team, Product, Traction & Funding, Competitive Landscape, Company Culture, Social Presence, Recent Signals, Open Questions, and Sources.
+**The 11 sections:** TL;DR · The Story · The Team · Product · Traction & Funding · Competitive Landscape · Company Culture · Social Presence · Recent Signals · Open Questions · Sources
 
 ## Technical Decisions & Tradeoffs
 

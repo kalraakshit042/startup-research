@@ -24,3 +24,7 @@ build/
 .coverage
 htmlcov/
 .pytest_cache/
+
+# Claude workspace (not part of the product)
+.claude/
+CLAUDE.md
