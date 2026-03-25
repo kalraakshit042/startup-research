@@ -4,7 +4,7 @@ Paste a company name. Get a synthesized research brief in 90 seconds.
 
 **[Try it live](https://akshitkalra.com/startupresearch)**
 
-![Startup Research](screenshot.png)
+![Startup Research](assets/screenshot.png)
 
 ---
 
@@ -12,12 +12,7 @@ Paste a company name. Get a synthesized research brief in 90 seconds.
 
 **Input:** `Harvey AI`
 
-**Output:** A structured 11-section brief covering the company story, founding team, product, funding history, competitive landscape, culture, social presence, and recent signals — with sources.
-
-<!-- TODO: Add example-report.png screenshot here -->
-<!-- ![Example report](example-report.png) -->
-
-<!-- TODO: Add a real TL;DR excerpt from the Harvey AI report here -->
+![Example report for Harvey AI](assets/example-report.png)
 
 Instead of reading 15 tabs and stitching them together manually, you get one coherent research brief with sources in ~90 seconds.
 
