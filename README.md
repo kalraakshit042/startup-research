@@ -5,7 +5,23 @@ Paste a company name. Get a synthesized research brief in 90 seconds.
 
 **[Try it live](https://akshitkalra.com/startupresearch)**
 
-![Startup Research](screenshot.png)
+![Startup Research](assets/screenshot.png)
+
+---
+
+## Example
+
+**Input:** `Harvey AI`
+
+![Example report for Harvey AI](assets/example-report.png)
+
+Instead of reading 15 tabs and stitching them together manually, you get one coherent research brief with sources in ~90 seconds.
+
+---
+
+## Who This Is For
+
+> Job applicants evaluating offers, founders scoping competitors, angel investors doing lightweight diligence, journalists on deadline, and potential customers wondering if a startup is legit — anyone who needs a fast, coherent view of a startup without paying for institutional research tools.
 
 ---
 
@@ -29,7 +45,7 @@ A two-phase pipeline: **search**, then **synthesize**.
 4. The report is **cached for 30 days** with a shareable URL (`/r/company-slug`)
 5. **1 free search per hour** to keep costs sustainable
 
-The 11 sections: TL;DR, The Story, The Team, Product, Traction & Funding, Competitive Landscape, Company Culture, Social Presence, Recent Signals, Open Questions, and Sources.
+**The 11 sections:** TL;DR · The Story · The Team · Product · Traction & Funding · Competitive Landscape · Company Culture · Social Presence · Recent Signals · Open Questions · Sources
 
 ## Technical Decisions & Tradeoffs
 
