@@ -1,4 +1,5 @@
 import { useState, useRef } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import InputForm from './components/InputForm'
 import ReportView from './components/ReportView'
 
@@ -103,6 +104,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen">
+      <Analytics />
       {state === 'HOME' && <InputForm onSearch={handleSearch} />}
 
       {(state === 'LOADING' || state === 'REPORT') && (
