@@ -2,19 +2,19 @@
 
 /* === DESIGN TOKENS === */
 :root {
-  --bg: #0f0f0f;
-  --surface: #161616;
-  --surface-hover: #1c1c1c;
-  --border: #232323;
-  --border-hover: #333333;
-  --text-primary: #e8e4de;
-  --text-secondary: #c4bfb6;
-  --text-muted: #8a8478;
-  --text-faint: #5a5650;
-  --accent: #d4a853;
-  --accent-hover: #e0ba6a;
-  --accent-subtle: rgba(212, 168, 83, 0.08);
-  --accent-line: rgba(212, 168, 83, 0.25);
+  --bg: #0f1419;
+  --surface: #1a2332;
+  --surface-hover: #1f2a3c;
+  --border: #2a3a4e;
+  --border-hover: #3a4f6a;
+  --text-primary: #e7ecef;
+  --text-secondary: #b8cfe0;
+  --text-muted: #8faabe;
+  --text-faint: #5a7a99;
+  --accent: #6096ba;
+  --accent-hover: #a3cef1;
+  --accent-subtle: rgba(96, 150, 186, 0.08);
+  --accent-line: rgba(96, 150, 186, 0.25);
   --success: #4a9e6b;
   --warning: #c4943a;
   --error: #c45c4a;
