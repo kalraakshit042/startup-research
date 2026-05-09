@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/startupresearch',
+  base: '/projects/startupresearch',
   plugins: [react(), tailwindcss()],
   server: {
     proxy: {
